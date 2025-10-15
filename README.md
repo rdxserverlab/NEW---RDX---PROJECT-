@@ -11,5 +11,6 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube)](https://youtube.com/@rdx-bot-zone?si=07glyrc8s-lSIkK8)
 
+[![Whatsapp](https://img.shields.io/badge/YouTube-green?style=for-the-badge&logo=whatsapp)](https://wa.me/qr/Q65AI7L4ZOBFO1)
 
 ![Image](https://i.imgur.com/yr1YUuj.jpeg)
