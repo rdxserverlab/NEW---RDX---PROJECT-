@@ -9,4 +9,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100009012838085)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](😃)
 
+[![YouTube](https://img.shields.io/badge/YouTube-green?style=for-the-badge&logo=YouTube)](https://youtube.com/@rdx-bot-zone?si=07glyrc8s-lSIkK8)
+
+
 ![Image](https://i.imgur.com/yr1YUuj.jpeg)
